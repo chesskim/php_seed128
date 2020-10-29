@@ -22,4 +22,4 @@ $decryptText = $seed->base64_decrypt($encryptText, $text_Key);
 echo "Decrypt Text \t:: " . iconv("EUC-KR", "UTF-8", $decryptText) . "\n";
 
 
-//
+///
