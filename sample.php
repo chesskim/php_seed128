@@ -3,7 +3,7 @@
  
 // author: chesskim <chesekim@nate.com>
 // blog: chess72.tistory.com 
-// encode: UTF-8 
+// encode: UTF-8
 
 // Seed128 + CBC mode + PKCS7 + base64 암호화 & 복호화 운용 예제
 
